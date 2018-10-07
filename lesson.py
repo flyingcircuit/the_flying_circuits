@@ -1,1 +1,0 @@
-my_variable = open('new_file2.py', 'w+')
